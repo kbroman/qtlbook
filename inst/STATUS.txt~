@@ -1,0 +1,58 @@
+
+Revision history for the qtlbook package
+----------------------------------------------------------------------
+copyright (c) 2006-9, Karl W Broman
+http://www.rqtl.org/book
+
+    This program is free software; you can redistribute it and/or
+    modify it under the terms of the GNU General Public License, as
+    published by the Free Software Foundation; either version 2 of
+    the License, or (at your option) any later version. 
+
+    This program is distributed in the hope that it will be useful,
+    but without any warranty; without even the implied warranty of
+    merchantability or fitness for a particular purpose.  See the
+    GNU General Public License for more details.
+
+    A copy of the GNU General Public License is available at
+    http://www.r-project.org/Licenses/
+----------------------------------------------------------------------
+
+Version 0.16, 3/21/2009:
+
+  Flipped the genotypes in the ovar data set.
+
+
+Version 0.15, 2/20/2009:
+
+  Revised the software license statements for clarity and
+  consistency.
+
+
+Version 0.14, 7/10/2008:
+
+  Added two datasets: trout and ovar
+
+
+Version 0.13, 12/17/2007:
+
+  Made a few revisions to the nf1 dataset.
+
+
+Version 0.12, 10/9/2006:
+
+  Added one dataset: gutlength
+
+
+Version 0.11, 8/4/2006:
+
+  Added several datasets: iron, myocard, nf1
+
+
+Version 0.10, 6/16/2006:
+
+  A brand-new package, with the aim of compiling the data for the book
+  on R/qtl.
+
+----------------------------------------------------------------------
+End of STATUS.txt

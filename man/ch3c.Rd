@@ -1,0 +1,36 @@
+\name{ch3c}
+\alias{ch3c}
+
+\title{Data with misplaced markers}
+
+\description{ 
+  Anonymous data with markers out of place.
+} 
+
+\usage{data(ch3c)}
+
+\format{
+  An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+  for details. 
+}
+
+\details{
+  An intercross with 100 individuals, each with one real phenotype and 
+  typed at 108 markers.
+}
+
+\source{
+  Karl W Broman, \email{kbroman@biostat.wisc.edu}
+}
+
+\examples{
+data(ch3c)
+
+ch3c <- est.rf(ch3c)
+plot.rf(ch3c, chr=c(1,7,12,13,15))
+}
+
+\seealso{ \code{\link[qtlbook]{ch3a}}, 
+  \code{\link[qtlbook]{ch3b}} }
+
+\keyword{datasets}
