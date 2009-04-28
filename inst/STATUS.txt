@@ -4,19 +4,22 @@ Revision history for the qtlbook package
 copyright (c) 2006-9, Karl W Broman
 http://www.rqtl.org/book
 
-    This program is free software; you can redistribute it and/or
-    modify it under the terms of the GNU General Public License, as
-    published by the Free Software Foundation; either version 2 of
-    the License, or (at your option) any later version. 
-
+    The R/qtlbook package is free software; you can redistribute it
+    and/or modify it under the terms of the GNU General Public
+    License, version 3, as published by the Free Software Foundation.
+    
     This program is distributed in the hope that it will be useful,
     but without any warranty; without even the implied warranty of
-    merchantability or fitness for a particular purpose.  See the
-    GNU General Public License for more details.
-
-    A copy of the GNU General Public License is available at
-    http://www.r-project.org/Licenses/
+    merchantability or fitness for a particular purpose.  See the GNU
+    General Public License for more details.
+    
+    A copy of the GNU General Public License, version 3, is available
+    at http://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
+
+Version 0.17, 4/28/2009:
+
+  Changed license to GPL-3.  
 
 Version 0.16, 3/29/2009:
 
