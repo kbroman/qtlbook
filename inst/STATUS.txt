@@ -17,9 +17,16 @@ http://www.rqtl.org/book
     at http://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
 
+Version 0.17-2, 6/30/2009:
+
+  Added a CITATION file and a reference in the help files for the
+  ch3a, ch3b and ch3c data sets.
+
+
 Version 0.17, 4/28/2009:
 
   Changed license to GPL-3.  
+
 
 Version 0.16, 3/29/2009:
 

@@ -30,6 +30,11 @@ ch3c <- est.rf(ch3c)
 plot.rf(ch3c, chr=c(1,7,12,13,15))
 }
 
+\references{
+  Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping with
+    R/qtl.} Springer, New York.
+}
+
 \seealso{ \code{\link[qtlbook]{ch3a}}, 
   \code{\link[qtlbook]{ch3b}} }
 

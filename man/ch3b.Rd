@@ -31,6 +31,11 @@ plot(-log10(thetab[,ncol(thetab)]), ylab=expression(-log[10](P)))
 thetab[thetab[,ncol(thetab)] < 1e-6,]
 }
 
+\references{
+  Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping with
+    R/qtl.} Springer, New York.
+}
+
 \seealso{ \code{\link[qtlbook]{ch3a}}, 
   \code{\link[qtlbook]{ch3c}} }
 
