@@ -35,7 +35,7 @@ plot.rf(ch3c, chr=c(1,7,12,13,15))
     R/qtl.} Springer, New York.
 }
 
-\seealso{ \code{\link[qtlbook]{ch3a}}, 
-  \code{\link[qtlbook]{ch3b}} }
+\seealso{ \code{\link{ch3a}}, 
+  \code{\link{ch3b}} }
 
 \keyword{datasets}

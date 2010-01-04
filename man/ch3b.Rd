@@ -36,7 +36,7 @@ thetab[thetab[,ncol(thetab)] < 1e-6,]
     R/qtl.} Springer, New York.
 }
 
-\seealso{ \code{\link[qtlbook]{ch3a}}, 
-  \code{\link[qtlbook]{ch3c}} }
+\seealso{ \code{\link{ch3a}}, 
+  \code{\link{ch3c}} }
 
 \keyword{datasets}

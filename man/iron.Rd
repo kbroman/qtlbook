@@ -30,8 +30,8 @@ data(iron)
 plot(iron)
 }
 
-\seealso{ \code{\link[qtlbook]{gutlength}}, \code{\link[qtlbook]{myocard}},
-  \code{\link[qtlbook]{nf1}},    \code{\link[qtlbook]{ovar}}, \code{\link[qtlbook]{trout}} }
+\seealso{ \code{\link{gutlength}}, \code{\link{myocard}},
+  \code{\link{nf1}},    \code{\link{ovar}}, \code{\link{trout}} }
 
 \keyword{datasets}
 

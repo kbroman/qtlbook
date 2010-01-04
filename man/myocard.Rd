@@ -32,8 +32,8 @@ data(myocard)
 plot(myocard)
 }
 
-\seealso{ \code{\link[qtlbook]{gutlength}}, \code{\link[qtlbook]{iron}},
-  \code{\link[qtlbook]{nf1}}   \code{\link[qtlbook]{ovar}}, \code{\link[qtlbook]{trout}} }
+\seealso{ \code{\link{gutlength}}, \code{\link{iron}},
+  \code{\link{nf1}}   \code{\link{ovar}}, \code{\link{trout}} }
 
 \keyword{datasets}
 

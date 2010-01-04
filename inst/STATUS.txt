@@ -17,6 +17,13 @@ http://www.rqtl.org/book
     at http://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
 
+Version 0.17-3, 10/26/2009:
+
+  Fixed slight error in CITATION file.
+
+  Fixed links in help files.
+
+
 Version 0.17-2, 6/30/2009:
 
   Added a CITATION file and a reference in the help files for the

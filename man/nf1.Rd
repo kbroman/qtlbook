@@ -35,9 +35,9 @@ data(nf1)
 plot(nf1)
 }
 
-\seealso{ \code{\link[qtlbook]{gutlength}} 
-  \code{\link[qtlbook]{iron}}, \code{\link[qtlbook]{myocard}},
-  \code{\link[qtlbook]{ovar}}, \code{\link[qtlbook]{trout}} }
+\seealso{ \code{\link{gutlength}} 
+  \code{\link{iron}}, \code{\link{myocard}},
+  \code{\link{ovar}}, \code{\link{trout}} }
 
 \keyword{datasets}
 

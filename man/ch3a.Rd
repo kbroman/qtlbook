@@ -39,8 +39,8 @@ max(cg[cg < 1])
 which(cg == max(cg[cg < 1]), arr.ind=TRUE)
 }
 
-\seealso{ \code{\link[qtlbook]{ch3b}},
-  \code{\link[qtlbook]{ch3c}} }
+\seealso{ \code{\link{ch3b}},
+  \code{\link{ch3c}} }
 
 \references{
   Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping with

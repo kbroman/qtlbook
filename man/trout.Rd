@@ -51,9 +51,9 @@ data(trout)
 plot(trout)
 }
 
-\seealso{ \code{\link[qtlbook]{gutlength}}, \code{\link[qtlbook]{iron}},
-  \code{\link[qtlbook]{myocard}}, \code{\link[qtlbook]{nf1}}, 
-  \code{\link[qtlbook]{ovar}}}
+\seealso{ \code{\link{gutlength}}, \code{\link{iron}},
+  \code{\link{myocard}}, \code{\link{nf1}}, 
+  \code{\link{ovar}}}
 
 \keyword{datasets}
 
