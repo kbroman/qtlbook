@@ -1,7 +1,7 @@
 
 Revision history for the qtlbook package
 ----------------------------------------------------------------------
-copyright (c) 2006-9, Karl W Broman
+copyright (c) 2006-2011, Karl W Broman
 http://www.rqtl.org/book
 
     The R/qtlbook package is free software; you can redistribute it
