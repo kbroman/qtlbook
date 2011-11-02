@@ -17,6 +17,13 @@ http://www.rqtl.org/book
     at http://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
 
+Version 0.18-1, 11/2/2011:
+
+  Added NAMESPACE
+
+  Re-compressed data sets
+
+
 Version 0.17-3, 10/26/2009:
 
   Fixed slight error in CITATION file.
