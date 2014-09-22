@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kbroman/qtlbook.png?branch=master)](https://travis-ci.org/kbroman/qtlbook)
 
-copyright (c) 2006-2012, Karl W Broman
+copyright (c) 2006-2012, [Karl W Broman](http://kbroman.org)
 
 http://www.biostat.wisc.edu/~kbroman/software/qtlbook
 
