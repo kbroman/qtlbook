@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/kbroman/qtlbook.png?branch=master)](https://travis-ci.org/kbroman/qtlbook)
 
-copyright (c) 2006-2012, [Karl W Broman](http://kbroman.org)
+[Karl W Broman](http://kbroman.org)
 
 [R/qtlbook](https://github.com/kbroman/qtlbook) is an R package with
 data sets for the book, [A Guide to QTL Mapping with R/qtl](http://www.rqtl.org/book).
