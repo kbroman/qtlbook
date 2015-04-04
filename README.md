@@ -1,6 +1,6 @@
 ### R/qtlbook
 
-[![Build Status](https://travis-ci.org/kbroman/qtlbook.png?branch=master)](https://travis-ci.org/kbroman/qtlbook)
+[![Build Status](https://travis-ci.org/kbroman/qtlbook.svg?branch=master)](https://travis-ci.org/kbroman/qtlbook)
 
 [Karl W Broman](http://kbroman.org)
 
