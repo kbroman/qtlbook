@@ -1,6 +1,7 @@
 ### R/qtlbook
 
 [![Build Status](https://travis-ci.org/kbroman/qtlbook.svg?branch=master)](https://travis-ci.org/kbroman/qtlbook)
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/qtlbook)](http://cran.r-project.org/package=qtlbook)
 
 [Karl W Broman](http://kbroman.org)
 
