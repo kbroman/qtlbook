@@ -1,6 +1,6 @@
 Package: qtlbook
-Version: 0.18-4
-Date: 2015-10-03
+Version: 0.18-5
+Date: 2016-05-21
 Title: Datasets for the R/qtl Book
 Author: Karl W Broman <kbroman@biostat.wisc.edu>
 Maintainer: Karl W Broman <kbroman@biostat.wisc.edu>

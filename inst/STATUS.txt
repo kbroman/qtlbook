@@ -1,6 +1,6 @@
 Revision history for the qtlbook package
 ----------------------------------------------------------------------
-copyright (c) 2006-2015, Karl W Broman
+copyright (c) 2006-2016, Karl W Broman
 http://www.rqtl.org/book
 
     The R/qtlbook package is free software; you can redistribute it
@@ -15,6 +15,11 @@ http://www.rqtl.org/book
     A copy of the GNU General Public License, version 3, is available
     at http://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
+
+Version 0.18-5, 2016-05-21:
+
+  Revise use of author() in inst/CITATION.
+
 
 Version 0.18-3, 2015-09-20:
 

@@ -2,14 +2,13 @@ citHeader("To cite R/qtlbook in publications use:")
 
 citEntry(entry="book",
          title = "A Guide to {QTL} Mapping with {R}/qtl",
-         author = personList(person("Karl", "Broman", "W."),
-			     person("Saunak", "Sen")),
-         publisher = "Springer",			     
+         author = personList(person("Karl W.", "Broman"),
+                             person("Saunak", "Sen")),
+         publisher = "Springer",
          year = 2009,
          address = "New York",
-         
-         textVersion = 
+
+         textVersion =
          paste("Broman and Sen (2009) A Guide to QTL Mapping with R/qtl.",
                "Springer, New York")
          )
-
