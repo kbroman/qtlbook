@@ -3,19 +3,19 @@
 
 \title{Data with misplaced markers}
 
-\description{ 
+\description{
   Anonymous data with markers out of place.
-} 
+}
 
 \usage{data(ch3c)}
 
 \format{
   An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
-  for details. 
+  for details.
 }
 
 \details{
-  An intercross with 100 individuals, each with one real phenotype and 
+  An intercross with 100 individuals, each with one real phenotype and
   typed at 108 markers.
 }
 
@@ -27,7 +27,7 @@
 data(ch3c)
 
 ch3c <- est.rf(ch3c)
-plot.rf(ch3c, chr=c(1,7,12,13,15))
+plotRF(ch3c, chr=c(1,7,12,13,15))
 }
 
 \references{
@@ -35,7 +35,7 @@ plot.rf(ch3c, chr=c(1,7,12,13,15))
     R/qtl.} Springer, New York.
 }
 
-\seealso{ \code{\link{ch3a}}, 
+\seealso{ \code{\link{ch3a}},
   \code{\link{ch3b}} }
 
 \keyword{datasets}
