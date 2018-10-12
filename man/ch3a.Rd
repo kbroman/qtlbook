@@ -3,26 +3,26 @@
 
 \title{Data with a phenotype error}
 
-\description{ 
+\description{
   Anonymous data with a phenotype error and a pair of individuals with
   very similar phenotypes.
-} 
+}
 
 \usage{data(ch3a)}
 
 \format{
   An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
-  for details. 
+  for details.
 }
 
 \details{
-  A backcross with 234 individuals, each with five phenotypes and 
+  A backcross with 234 individuals, each with five phenotypes and
   typed at 166 markers.
 
 }
 
 \source{
-  Karl W Broman, \email{kbroman@biostat.wisc.edu}
+  Karl W Broman, \email{broman@wisc.edu}
 }
 
 \examples{

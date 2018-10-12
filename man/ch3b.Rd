@@ -3,24 +3,24 @@
 
 \title{Data with bad markers}
 
-\description{ 
+\description{
   Anonymous data with markers showing severe segregation distortion.
-} 
+}
 
 \usage{data(ch3b)}
 
 \format{
   An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
-  for details. 
+  for details.
 }
 
 \details{
-  An intercross with 144 individuals, each with one phenotype and 
+  An intercross with 144 individuals, each with one phenotype and
   typed at 145 markers.
 }
 
 \source{
-  Karl W Broman, \email{kbroman@biostat.wisc.edu}
+  Karl W Broman, \email{broman@wisc.edu}
 }
 
 \examples{
@@ -36,7 +36,7 @@ thetab[thetab[,ncol(thetab)] < 1e-6,]
     R/qtl.} Springer, New York.
 }
 
-\seealso{ \code{\link{ch3a}}, 
+\seealso{ \code{\link{ch3a}},
   \code{\link{ch3c}} }
 
 \keyword{datasets}
