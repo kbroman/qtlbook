@@ -1,10 +1,15 @@
 Package: qtlbook
-Version: 0.18-6
-Date: 2017-09-12
+Version: 0.18-7
+Date: 2019-03-11
 Title: Datasets for the R/qtl Book
 Author: Karl W Broman <broman@wisc.edu>
 Maintainer: Karl W Broman <broman@wisc.edu>
 Description: Datasets for the book, A Guide to QTL Mapping with R/qtl.
-Depends: R (>= 2.10.1), qtl
+    Broman and Sen (2009) <doi:10.1007/978-0-387-92125-9>.
+Depends: R (>= 2.10.1)
+Suggests: qtl
 License: GPL-3
-URL: http://www.rqtl.org/book
+URL: http://rqtl.org/book, https://github.com/kbroman/qtlbook
+BugReports: https://github.com/kbroman/qtlbook/issues
+Encoding: UTF-8
+RoxygenNote: 6.1.1

@@ -7,8 +7,10 @@ citEntry(entry="book",
          publisher = "Springer",
          year = 2009,
          address = "New York",
+         doi = "10.1007/978-0-387-92125-9",
+         url = "https://doi.org/10.1007/978-0-387-92125-9",
 
          textVersion =
          paste("Broman and Sen (2009) A Guide to QTL Mapping with R/qtl.",
-               "Springer, New York")
+               "Springer, New York. doi:10.1007/978-0-387-92125-9")
          )
