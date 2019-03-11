@@ -23,7 +23,6 @@ murine cardiac myosin, and the area of infiltrated myocardium in heart
 sections was measured.  The phenotype is the percent myocarditis.
 }
 \examples{
-
 data(myocard)
 library(qtl)
 plot(myocard)
@@ -36,7 +35,7 @@ apoptosis control susceptibility to experimental autoimmune myocarditis.
 \emph{J. Immunol.} \strong{174}: 2167--2173.
 }
 \seealso{
-\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=nf1]{nf1()}}
-\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
+\code{link{gutlength}}, \code{link{iron}}, \code{link{nf1}}
+\code{link{ovar}}, \code{link{trout}}
 }
 \keyword{datasets}

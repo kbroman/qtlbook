@@ -22,7 +22,6 @@ directions), each with measures of iron (in \eqn{\mu g/g}{ug/g}) in the
 liver and spleen.
 }
 \examples{
-
 data(iron)
 library(qtl)
 plot(iron)
@@ -35,7 +34,7 @@ polymorphic loci determine basal hepatic and splenic iron status in mice.
 \emph{Hepatology} \strong{44}, 174--185.
 }
 \seealso{
-\code{\link[=gutlength]{gutlength()}}, \code{\link[=myocard]{myocard()}}, \code{\link[=nf1]{nf1()}},
-\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
+\code{link{gutlength}}, \code{link{myocard}}, \code{link{nf1}},
+\code{link{ovar}}, \code{link{trout}}
 }
 \keyword{datasets}

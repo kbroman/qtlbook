@@ -8,11 +8,16 @@
 #'
 #' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso [ch3b()], [ch3c()]
+#'
+#' @seealso \code{\link{ch3b}}, \code{\link{ch3c}}
+#'
 #' @references Broman, K. W. and Sen, S. (2009) *A Guide to QTL Mapping
 #' with R/qtl.* Springer, New York.
-#' @source Karl W Broman, \email{broman@wisc.edu}
+#'
+#' @source Karl W Broman, \email{broman@@wisc.edu}
+#'
 #' @keywords datasets
+#'
 #' @examples
 #' data(ch3a)
 #'

@@ -27,8 +27,10 @@
 #'
 #' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso [gutlength()], [iron()], [myocard()],
-#' [nf1()], [ovar()]
+#'
+#' @seealso \code{link{gutlength}}, \code{link{iron}}, \code{link{myocard}},
+#' \code{link{nf1}}, \code{link{ovar}}
+#'
 #' @references Nichols, K. M., Broman, K. W., Sundin, K., Young, J. M.,
 #' Wheeler, P. A. and Thorgaard, G. H.  (2007) Quantitative trait loci by
 #' maternal cytoplasmic environment interaction for development rate in
@@ -40,11 +42,13 @@
 #' Brown, K. H., Wheeler, P. A. and Thrgaard, G. H. (2002) A consolidated
 #' linkage map for rainbow trout (*Oncorhynchus mykiss*).  *Animal
 #' Genetics* **34**, 102--115.
-#' @source Krista M. Nichols, Department of Biological Sciences, Purdue
-#' University, \email{kmnichol@purdue.edu}
-#' @keywords datasets
-#' @examples
 #'
+#' @source Krista M. Nichols, Department of Biological Sciences, Purdue
+#' University, \email{kmnichol@@purdue.edu}
+#'
+#' @keywords datasets
+#'
+#' @examples
 #' data(trout)
 #' library(qtl)
 #' plot(trout)

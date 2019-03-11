@@ -16,8 +16,10 @@
 #'
 #' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso [iron()], [myocard()], [nf1()],
-#' [ovar()], [trout()]
+#'
+#' @seealso \code{\link{iron}}, \code{\link{myocard}}, \code{\link{nf1}},
+#' \code{\link{ovar}}, \code{\link{trout}}
+#'
 #' @references Owens, S. E., Broman, K. W., Wiltshire, T., Elmore, J. B.,
 #' Bradley, K. M., Smith, J. R. and Southard-Smith, E. M. (2005) Genome-wide
 #' linkage identifies novel modifier loci of aganglionosis in the
@@ -27,12 +29,14 @@
 #' Broman, K. W., Sen, \'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
 #' M. and Churchill G. A.  (2006) The X chromosome in quantitative trait locus
 #' mapping.  *Genetics* **174**, 2151--2158.
+#'
 #' @source E. Michelle Southard-Smith, Division of Genetic Medicine, Department
 #' of Medicine, Vanderbilt University School of Medicine,
-#' \email{michelle.southard-smith@vanderbilt.edu}
-#' @keywords datasets
-#' @examples
+#' \email{michelle.southard-smith@@vanderbilt.edu}
 #'
+#' @keywords datasets
+#'
+#' @examples
 #' data(gutlength)
 #' library(qtl)
 #' plot(gutlength)

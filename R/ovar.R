@@ -36,16 +36,20 @@
 #'
 #' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso [gutlength()], [iron()], [myocard()],
-#' [nf1()], [trout()]
+#'
+#' @seealso \code{link{gutlength}}, \code{link{iron}}, \code{link{myocard}},
+#' \code{link{nf1}}, \code{link{trout}}
+#'
 #' @references Orgogozo, V., Broman, K. W. and Stern, D. L.  (2006)
 #' High-resolution QTL mapping reveals sign epistasis controlling ovariole
 #' number between two Drosophila species. *Genetics* **173**, 197--205.
-#' @source Virginie Orgogozo, Department of Ecology and Evolutionary Biology,
-#' Princeton University, \email{virginie.orgogozo@normalesup.org}
-#' @keywords datasets
-#' @examples
 #'
+#' @source Virginie Orgogozo, Department of Ecology and Evolutionary Biology,
+#' Princeton University, \email{virginie.orgogozo@@normalesup.org}
+#'
+#' @keywords datasets
+#'
+#' @examples
 #' data(ovar)
 #' library(qtl)
 #' plot(ovar)

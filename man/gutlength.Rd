@@ -31,7 +31,6 @@ The primary phenotype here is gut length (in cm).  The phenotype
 \code{cross} indicates the cross used to generate an animal.
 }
 \examples{
-
 data(gutlength)
 library(qtl)
 plot(gutlength)
@@ -49,7 +48,7 @@ M. and Churchill G. A.  (2006) The X chromosome in quantitative trait locus
 mapping.  \emph{Genetics} \strong{174}, 2151--2158.
 }
 \seealso{
-\code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}}, \code{\link[=nf1]{nf1()}},
-\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
+\code{\link{iron}}, \code{\link{myocard}}, \code{\link{nf1}},
+\code{\link{ovar}}, \code{\link{trout}}
 }
 \keyword{datasets}

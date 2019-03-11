@@ -34,6 +34,6 @@ Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping
 with R/qtl.} Springer, New York.
 }
 \seealso{
-\code{\link[=ch3a]{ch3a()}}, \code{\link[=ch3c]{ch3c()}}
+\code{\link{ch3a}}, \code{\link{ch3c}}
 }
 \keyword{datasets}

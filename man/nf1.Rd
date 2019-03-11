@@ -6,10 +6,6 @@
 \title{Neurofibromatosis type 1 backcross data}
 \format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
-\source{
-Karlyne Reilly, Mouse Cancer Genetics Program, National Cancer
-Institute at Frederick, \email{kreilly@ncifcrf.gov}
-}
 \usage{
 nf1
 }
@@ -26,7 +22,6 @@ from either their mother or their father (indicated by the phenotype
 mice were affected (1) or unaffected (0) with neurofibromatosis type 1.
 }
 \examples{
-
 data(nf1)
 library(qtl)
 plot(nf1)
@@ -39,9 +34,11 @@ D. A., Christy, E. S., Sun, Z., Diehl, J., Munroe, D. J. and Tuskan, R. G.
 \emph{Nstr2} to control resistance to nerve sheath tumors in a
 neurofibromatosis type 1 mouse model.  \emph{Cancer Research} \strong{66},
 62--68.
+#' @source Karlyne Reilly, Mouse Cancer Genetics Program, National Cancer
+Institute at Frederick, \email{kreilly@ncifcrf.gov}
 }
 \seealso{
-\code{\link[=gutlength]{gutlength()}} \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
-\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
+\code{link{gutlength}} \code{link{iron}}, \code{link{myocard}},
+\code{link{ovar}}, \code{link{trout}}
 }
 \keyword{datasets}

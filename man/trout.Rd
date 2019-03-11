@@ -41,7 +41,6 @@ R/qtl they are treated just like a backcross, except that genotypes are
 referred to as the homozygotes.
 }
 \examples{
-
 data(trout)
 library(qtl)
 plot(trout)
@@ -61,7 +60,7 @@ linkage map for rainbow trout (\emph{Oncorhynchus mykiss}).  \emph{Animal
 Genetics} \strong{34}, 102--115.
 }
 \seealso{
-\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
-\code{\link[=nf1]{nf1()}}, \code{\link[=ovar]{ovar()}}
+\code{link{gutlength}}, \code{link{iron}}, \code{link{myocard}},
+\code{link{nf1}}, \code{link{ovar}}
 }
 \keyword{datasets}

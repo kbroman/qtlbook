@@ -20,7 +20,6 @@ An intercross with 100 individuals, each with one real phenotype and typed
 at 108 markers.
 }
 \examples{
-
 data(ch3c)
 
 library(qtl)
@@ -33,6 +32,6 @@ Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping
 with R/qtl.} Springer, New York.
 }
 \seealso{
-\code{\link[=ch3a]{ch3a()}}, \code{\link[=ch3b]{ch3b()}}
+\code{\link{ch3a}}, \code{\link{ch3b}}
 }
 \keyword{datasets}

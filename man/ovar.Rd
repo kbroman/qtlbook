@@ -50,7 +50,6 @@ Alleles \code{"I"} and \code{"E"} refer to \emph{D. simulans} and \emph{D.
 sechellia}, respectively.
 }
 \examples{
-
 data(ovar)
 library(qtl)
 plot(ovar)
@@ -62,7 +61,7 @@ High-resolution QTL mapping reveals sign epistasis controlling ovariole
 number between two Drosophila species. \emph{Genetics} \strong{173}, 197--205.
 }
 \seealso{
-\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
-\code{\link[=nf1]{nf1()}}, \code{\link[=trout]{trout()}}
+\code{link{gutlength}}, \code{link{iron}}, \code{link{myocard}},
+\code{link{nf1}}, \code{link{trout}}
 }
 \keyword{datasets}
