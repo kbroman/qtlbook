@@ -13,3 +13,4 @@ URL: http://rqtl.org/book, https://github.com/kbroman/qtlbook
 BugReports: https://github.com/kbroman/qtlbook/issues
 Encoding: UTF-8
 RoxygenNote: 6.1.1
+Roxygen: list(markdown = TRUE)

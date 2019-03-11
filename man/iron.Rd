@@ -4,7 +4,7 @@
 \name{iron}
 \alias{iron}
 \title{Iron levels intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Andrew G. Smith, MRC Toxicology Unit, \email{ags5@le.ac.uk}
@@ -32,10 +32,10 @@ plot(iron)
 Grant, G. G., Robinson, S. W., Edwards, R. E., Clothier, B.,
 Davies, R., Judah, D. J., Broman, K. W. and Smith, A. G. (2006) Multiple
 polymorphic loci determine basal hepatic and splenic iron status in mice.
-\emph{Hepatology} \bold{44}, 174--185.
+\emph{Hepatology} \strong{44}, 174--185.
 }
 \seealso{
-\code{\link{gutlength}}, \code{\link{myocard}}, \code{\link{nf1}},
-\code{\link{ovar}}, \code{\link{trout}}
+\code{\link[=gutlength]{gutlength()}}, \code{\link[=myocard]{myocard()}}, \code{\link[=nf1]{nf1()}},
+\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
 }
 \keyword{datasets}

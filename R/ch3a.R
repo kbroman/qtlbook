@@ -6,11 +6,11 @@
 #' A backcross with 234 individuals, each with five phenotypes and typed at 166
 #' markers.
 #'
-#' @format An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+#' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso \code{\link{ch3b}}, \code{\link{ch3c}}
-#' @references Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping
-#' with R/qtl.} Springer, New York.
+#' @seealso [ch3b()], [ch3c()]
+#' @references Broman, K. W. and Sen, S. (2009) *A Guide to QTL Mapping
+#' with R/qtl.* Springer, New York.
 #' @source Karl W Broman, \email{broman@wisc.edu}
 #' @keywords datasets
 #' @examples

@@ -7,14 +7,14 @@
 #' directions), each with measures of iron (in \eqn{\mu g/g}{ug/g}) in the
 #' liver and spleen.
 #'
-#' @format An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+#' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso \code{\link{gutlength}}, \code{\link{myocard}}, \code{\link{nf1}},
-#' \code{\link{ovar}}, \code{\link{trout}}
+#' @seealso [gutlength()], [myocard()], [nf1()],
+#' [ovar()], [trout()]
 #' @references Grant, G. G., Robinson, S. W., Edwards, R. E., Clothier, B.,
 #' Davies, R., Judah, D. J., Broman, K. W. and Smith, A. G. (2006) Multiple
 #' polymorphic loci determine basal hepatic and splenic iron status in mice.
-#' \emph{Hepatology} \bold{44}, 174--185.
+#' *Hepatology* **44**, 174--185.
 #' @source Andrew G. Smith, MRC Toxicology Unit, \email{ags5@le.ac.uk}
 #' @keywords datasets
 #' @examples

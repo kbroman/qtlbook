@@ -4,7 +4,7 @@
 \name{ch3a}
 \alias{ch3a}
 \title{Data with a phenotype error}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Karl W Broman, \email{broman@wisc.edu}
@@ -40,6 +40,6 @@ Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping
 with R/qtl.} Springer, New York.
 }
 \seealso{
-\code{\link{ch3b}}, \code{\link{ch3c}}
+\code{\link[=ch3b]{ch3b()}}, \code{\link[=ch3c]{ch3c()}}
 }
 \keyword{datasets}

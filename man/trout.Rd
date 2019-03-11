@@ -4,7 +4,7 @@
 \name{trout}
 \alias{trout}
 \title{Rainbow trout doubled haploid data}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Krista M. Nichols, Department of Biological Sciences, Purdue
@@ -51,17 +51,17 @@ plot(trout)
 Nichols, K. M., Broman, K. W., Sundin, K., Young, J. M.,
 Wheeler, P. A. and Thorgaard, G. H.  (2007) Quantitative trait loci by
 maternal cytoplasmic environment interaction for development rate in
-\emph{Oncorhynchus mykiss}. \emph{Genetics} \bold{175}, 335--347.
+\emph{Oncorhynchus mykiss}. \emph{Genetics} \strong{175}, 335--347.
 
 Nichols, K. M., Young, W. P., Danzmann, R. G., Robison, B. D., Rexroad, C.,
 Noakes, M., Phillips, R. B., Bentzen, P., Spies, I., Knudsen, K., Allendorf,
 F. W., Cunningham, B. M., Brunelli, J., Zhang, H., Ristow, S., Drew, R.,
 Brown, K. H., Wheeler, P. A. and Thrgaard, G. H. (2002) A consolidated
 linkage map for rainbow trout (\emph{Oncorhynchus mykiss}).  \emph{Animal
-Genetics} \bold{34}, 102--115.
+Genetics} \strong{34}, 102--115.
 }
 \seealso{
-\code{\link{gutlength}}, \code{\link{iron}}, \code{\link{myocard}},
-\code{\link{nf1}}, \code{\link{ovar}}
+\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
+\code{\link[=nf1]{nf1()}}, \code{\link[=ovar]{ovar()}}
 }
 \keyword{datasets}

@@ -4,7 +4,7 @@
 \name{ovar}
 \alias{ovar}
 \title{Interspecific backcross in Drosophila}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Virginie Orgogozo, Department of Ecology and Evolutionary Biology,
@@ -59,10 +59,10 @@ plot(ovar)
 \references{
 Orgogozo, V., Broman, K. W. and Stern, D. L.  (2006)
 High-resolution QTL mapping reveals sign epistasis controlling ovariole
-number between two Drosophila species. \emph{Genetics} \bold{173}, 197--205.
+number between two Drosophila species. \emph{Genetics} \strong{173}, 197--205.
 }
 \seealso{
-\code{\link{gutlength}}, \code{\link{iron}}, \code{\link{myocard}},
-\code{\link{nf1}}, \code{\link{trout}}
+\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
+\code{\link[=nf1]{nf1()}}, \code{\link[=trout]{trout()}}
 }
 \keyword{datasets}

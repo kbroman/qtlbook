@@ -5,11 +5,11 @@
 #' An intercross with 100 individuals, each with one real phenotype and typed
 #' at 108 markers.
 #'
-#' @format An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+#' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso \code{\link{ch3a}}, \code{\link{ch3b}}
-#' @references Broman, K. W. and Sen, S. (2009) \emph{A Guide to QTL Mapping
-#' with R/qtl.} Springer, New York.
+#' @seealso [ch3a()], [ch3b()]
+#' @references Broman, K. W. and Sen, S. (2009) *A Guide to QTL Mapping
+#' with R/qtl.* Springer, New York.
 #' @source Karl W Broman, \email{broman@wisc.edu}
 #' @keywords datasets
 #' @examples

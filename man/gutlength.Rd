@@ -4,7 +4,7 @@
 \name{gutlength}
 \alias{gutlength}
 \title{Gut length intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 E. Michelle Southard-Smith, Division of Genetic Medicine, Department
@@ -42,14 +42,14 @@ Owens, S. E., Broman, K. W., Wiltshire, T., Elmore, J. B.,
 Bradley, K. M., Smith, J. R. and Southard-Smith, E. M. (2005) Genome-wide
 linkage identifies novel modifier loci of aganglionosis in the
 \eqn{Sox10^{Dom}}{Sox10Dom} model of Hirschsprung disease.  \emph{Hum. Mol.
-Genet.} \bold{14}, 1549--1558.
+Genet.} \strong{14}, 1549--1558.
 
-Broman, K. W., Sen, \'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
+Broman, K. W., Sen, 'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
 M. and Churchill G. A.  (2006) The X chromosome in quantitative trait locus
-mapping.  \emph{Genetics} \bold{174}, 2151--2158.
+mapping.  \emph{Genetics} \strong{174}, 2151--2158.
 }
 \seealso{
-\code{\link{iron}}, \code{\link{myocard}}, \code{\link{nf1}},
-\code{\link{ovar}}, \code{\link{trout}}
+\code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}}, \code{\link[=nf1]{nf1()}},
+\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
 }
 \keyword{datasets}

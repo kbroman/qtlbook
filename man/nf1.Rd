@@ -4,7 +4,7 @@
 \name{nf1}
 \alias{nf1}
 \title{Neurofibromatosis type 1 backcross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Karlyne Reilly, Mouse Cancer Genetics Program, National Cancer
@@ -37,11 +37,11 @@ Reilly, K. M., Broman, K. W., Bronson, R. T., Tsang, S., Loisel,
 D. A., Christy, E. S., Sun, Z., Diehl, J., Munroe, D. J. and Tuskan, R. G.
 (2006) An imprinted locus epistatically influences \emph{Nstr1} and
 \emph{Nstr2} to control resistance to nerve sheath tumors in a
-neurofibromatosis type 1 mouse model.  \emph{Cancer Research} \bold{66},
+neurofibromatosis type 1 mouse model.  \emph{Cancer Research} \strong{66},
 62--68.
 }
 \seealso{
-\code{\link{gutlength}} \code{\link{iron}}, \code{\link{myocard}},
-\code{\link{ovar}}, \code{\link{trout}}
+\code{\link[=gutlength]{gutlength()}} \code{\link[=iron]{iron()}}, \code{\link[=myocard]{myocard()}},
+\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
 }
 \keyword{datasets}

@@ -4,7 +4,7 @@
 \name{myocard}
 \alias{myocard}
 \title{Myocarditis intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
 for details.}
 \source{
 Noel R. Rose, Department of Pathology, Johns Hopkins University,
@@ -33,10 +33,10 @@ plot(myocard)
 Guler, M. L, Ligons, D. L., Wang, Y., Bianco, M., Broman, K. W.
 and Rose, N. R. (2005) Two autoimmune diabetes loci influencing T cell
 apoptosis control susceptibility to experimental autoimmune myocarditis.
-\emph{J. Immunol.} \bold{174}: 2167--2173.
+\emph{J. Immunol.} \strong{174}: 2167--2173.
 }
 \seealso{
-\code{\link{gutlength}}, \code{\link{iron}}, \code{\link{nf1}}
-\code{\link{ovar}}, \code{\link{trout}}
+\code{\link[=gutlength]{gutlength()}}, \code{\link[=iron]{iron()}}, \code{\link[=nf1]{nf1()}}
+\code{\link[=ovar]{ovar()}}, \code{\link[=trout]{trout()}}
 }
 \keyword{datasets}

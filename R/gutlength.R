@@ -12,21 +12,21 @@
 #' mutation from their mother and some from their father.
 #'
 #' The primary phenotype here is gut length (in cm).  The phenotype
-#' \code{cross} indicates the cross used to generate an animal.
+#' `cross` indicates the cross used to generate an animal.
 #'
-#' @format An object of class \code{cross}.  See \code{\link[qtl]{read.cross}}
+#' @format An object of class `cross`.  See [qtl::read.cross()]
 #' for details.
-#' @seealso \code{\link{iron}}, \code{\link{myocard}}, \code{\link{nf1}},
-#' \code{\link{ovar}}, \code{\link{trout}}
+#' @seealso [iron()], [myocard()], [nf1()],
+#' [ovar()], [trout()]
 #' @references Owens, S. E., Broman, K. W., Wiltshire, T., Elmore, J. B.,
 #' Bradley, K. M., Smith, J. R. and Southard-Smith, E. M. (2005) Genome-wide
 #' linkage identifies novel modifier loci of aganglionosis in the
-#' \eqn{Sox10^{Dom}}{Sox10Dom} model of Hirschsprung disease.  \emph{Hum. Mol.
-#' Genet.} \bold{14}, 1549--1558.
+#' \eqn{Sox10^{Dom}}{Sox10Dom} model of Hirschsprung disease.  *Hum. Mol.
+#' Genet.* **14**, 1549--1558.
 #'
 #' Broman, K. W., Sen, \'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
 #' M. and Churchill G. A.  (2006) The X chromosome in quantitative trait locus
-#' mapping.  \emph{Genetics} \bold{174}, 2151--2158.
+#' mapping.  *Genetics* **174**, 2151--2158.
 #' @source E. Michelle Southard-Smith, Division of Genetic Medicine, Department
 #' of Medicine, Vanderbilt University School of Medicine,
 #' \email{michelle.southard-smith@vanderbilt.edu}
