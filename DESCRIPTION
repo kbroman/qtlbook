@@ -2,8 +2,10 @@ Package: qtlbook
 Version: 0.18-7
 Date: 2019-03-11
 Title: Datasets for the R/qtl Book
-Author: Karl W Broman <broman@wisc.edu>
+Author: Karl W Broman [aut, cre] (<https://orcid.org/0000-0002-4914-6671>)
 Maintainer: Karl W Broman <broman@wisc.edu>
+Authors@R: c(person("Karl W", "Broman", role=c("aut", "cre"),
+             email="broman@wisc.edu", comment=c(ORCID = "0000-0002-4914-6671")))
 Description: Datasets for the book, A Guide to QTL Mapping with R/qtl.
     Broman and Sen (2009) <doi:10.1007/978-0-387-92125-9>.
 Depends: R (>= 2.10.1)
