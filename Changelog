@@ -1,7 +1,7 @@
 Revision history for the qtlbook package
 ----------------------------------------------------------------------
 copyright (c) 2006-2019, Karl W Broman
-http://www.rqtl.org/book
+http://rqtl.org/book
 
     The R/qtlbook package is free software; you can redistribute it
     and/or modify it under the terms of the GNU General Public
@@ -13,10 +13,10 @@ http://www.rqtl.org/book
     General Public License for more details.
 
     A copy of the GNU General Public License, version 3, is available
-    at http://www.r-project.org/Licenses/GPL-3
+    at https://www.r-project.org/Licenses/GPL-3
 ----------------------------------------------------------------------
 
-Version 0.18-7, 2019-03-11:
+Version 0.18-8, 2019-06-28:
 
   Convert documentation to roxygen2
 

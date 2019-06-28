@@ -3,10 +3,10 @@
 [![Build Status](https://travis-ci.org/kbroman/qtlbook.svg?branch=master)](https://travis-ci.org/kbroman/qtlbook)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/qtlbook)](https://cran.r-project.org/package=qtlbook)
 
-[Karl W Broman](http://kbroman.org)
+[Karl W Broman](https://kbroman.org)
 
 [R/qtlbook](https://github.com/kbroman/qtlbook) is an R package with
-data sets for the book, [A Guide to QTL Mapping with R/qtl](http://www.rqtl.org/book).
+data sets for the book, [A Guide to QTL Mapping with R/qtl](http://rqtl.org/book).
 
 ### License
 
