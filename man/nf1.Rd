@@ -4,8 +4,10 @@
 \name{nf1}
 \alias{nf1}
 \title{Neurofibromatosis type 1 backcross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \usage{
 nf1
 }

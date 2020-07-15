@@ -4,8 +4,10 @@
 \name{myocard}
 \alias{myocard}
 \title{Myocarditis intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 Noel R. Rose, Department of Pathology, Johns Hopkins University,
 \email{nrrose@biostat.wisc.edu}

@@ -4,8 +4,10 @@
 \name{iron}
 \alias{iron}
 \title{Iron levels intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 Andrew G. Smith, MRC Toxicology Unit, \email{ags5@le.ac.uk}
 }

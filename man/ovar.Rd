@@ -4,8 +4,10 @@
 \name{ovar}
 \alias{ovar}
 \title{Interspecific backcross in Drosophila}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 Virginie Orgogozo, Department of Ecology and Evolutionary Biology,
 Princeton University, \email{virginie.orgogozo@normalesup.org}

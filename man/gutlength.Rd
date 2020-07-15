@@ -4,8 +4,10 @@
 \name{gutlength}
 \alias{gutlength}
 \title{Gut length intercross data}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 E. Michelle Southard-Smith, Division of Genetic Medicine, Department
 of Medicine, Vanderbilt University School of Medicine,
@@ -43,7 +45,7 @@ linkage identifies novel modifier loci of aganglionosis in the
 \eqn{Sox10^{Dom}}{Sox10Dom} model of Hirschsprung disease.  \emph{Hum. Mol.
 Genet.} \strong{14}, 1549--1558.
 
-Broman, K. W., Sen, 'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
+Broman, K. W., Sen, \'S, Owens, S. E., Manichaikul, A., Southard-Smith, E.
 M. and Churchill G. A.  (2006) The X chromosome in quantitative trait locus
 mapping.  \emph{Genetics} \strong{174}, 2151--2158.
 }

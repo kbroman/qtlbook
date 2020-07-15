@@ -4,8 +4,10 @@
 \name{ch3b}
 \alias{ch3b}
 \title{Data with bad markers}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 Karl W Broman, \email{broman@wisc.edu}
 }

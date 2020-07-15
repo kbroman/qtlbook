@@ -4,8 +4,10 @@
 \name{trout}
 \alias{trout}
 \title{Rainbow trout doubled haploid data}
-\format{An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
-for details.}
+\format{
+An object of class \code{cross}.  See \code{\link[qtl:read.cross]{qtl::read.cross()}}
+for details.
+}
 \source{
 Krista M. Nichols, Department of Biological Sciences, Purdue
 University, \email{kmnichol@purdue.edu}
