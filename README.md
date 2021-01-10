@@ -1,12 +1,12 @@
 ### R/qtlbook
 
 [![R build status](https://github.com/kbroman/qtlbook/workflows/R-CMD-check/badge.svg)](https://github.com/kbroman/qtlbook/actions)
-[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/qtlbook)](https://cran.r-project.org/package=qtlbook)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/qtlbook)](https://cran.r-project.org/package=qtlbook)
 
 [Karl W Broman](https://kbroman.org)
 
 [R/qtlbook](https://github.com/kbroman/qtlbook) is an R package with
-data sets for the book, [A Guide to QTL Mapping with R/qtl](http://rqtl.org/book).
+data sets for the book, [A Guide to QTL Mapping with R/qtl](https://rqtl.org/book/).
 
 ### License
 
