@@ -1,6 +1,6 @@
 Package: qtlbook
-Version: 0.18-9
-Date: 2019-07-15
+Version: 0.18-10
+Date: 2023-03-06
 Title: Datasets for the R/qtl Book
 Author: Karl W Broman [aut, cre] (<https://orcid.org/0000-0002-4914-6671>)
 Maintainer: Karl W Broman <broman@wisc.edu>
@@ -14,6 +14,6 @@ License: GPL-3
 URL: https://rqtl.org/book/, https://github.com/kbroman/qtlbook
 BugReports: https://github.com/kbroman/qtlbook/issues
 Encoding: UTF-8
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.3
 Roxygen: list(markdown = TRUE)
 LazyData: true

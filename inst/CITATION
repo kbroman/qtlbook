@@ -1,6 +1,6 @@
 citHeader("To cite R/qtlbook in publications use:")
 
-citEntry(entry="book",
+bibentry(bibtype="book",
          title = "A Guide to {QTL} Mapping with {R}/qtl",
          author = personList(person("Karl W.", "Broman"),
                              person("Saunak", "Sen")),
