@@ -2,8 +2,8 @@ citHeader("To cite R/qtlbook in publications use:")
 
 bibentry(bibtype="book",
          title = "A Guide to {QTL} Mapping with {R}/qtl",
-         author = personList(person("Karl W.", "Broman"),
-                             person("Saunak", "Sen")),
+         author = c(person("Karl W.", "Broman"),
+                    person("Śaunak", "Sen")),
          publisher = "Springer",
          year = 2009,
          address = "New York",
