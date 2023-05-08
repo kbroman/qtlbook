@@ -1,7 +1,8 @@
 ### R/qtlbook
 
-[![R build status](https://github.com/kbroman/qtlbook/workflows/R-CMD-check/badge.svg)](https://github.com/kbroman/qtlbook/actions)
+[![R-CMD-check](https://github.com/kbroman/qtlbook/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/kbroman/qtlbook/actions/workflows/R-CMD-check.yaml)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/qtlbook)](https://cran.r-project.org/package=qtlbook)
+[![zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3260729.svg)](https://doi.org/10.5281/zenodo.3260729)
 
 [Karl W Broman](https://kbroman.org)
 
