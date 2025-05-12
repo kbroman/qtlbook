@@ -1,6 +1,6 @@
 Package: qtlbook
-Version: 0.18-10
-Date: 2025-05-09
+Version: 0.20
+Date: 2025-05-12
 Title: Datasets for the R/qtl Book
 Author: Karl W Broman [aut, cre] (<https://orcid.org/0000-0002-4914-6671>)
 Maintainer: Karl W Broman <broman@wisc.edu>

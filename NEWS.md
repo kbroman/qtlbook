@@ -1,6 +1,6 @@
 ## Revision history for the qtlbook package
 
-### Version 0.18-10, 2025-05-09
+### Version 0.20, 2025-05-12
 
 - `citEntry()` -> `bibentry()` in CITATION file
 
